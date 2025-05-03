@@ -30,23 +30,7 @@ Our mission is to harness the power of technology to solve real-world problems w
   - **Role**: Founder and Supervisor
   - **Expertise**: With over 5-6 years of experience, @iDevo brings a wealth of knowledge in Go (DevOps), Python, JavaScript, C#, and graphic design to NEHONIX.
   - **Vision**: As the driving force behind NEHONIX, @iDevo ensures that every project aligns with the organization’s mission, overseeing development, design, and deployment with a focus on quality and innovation.
-
-## Goals
-
-### Short-Term Goals (1-2 Years)
-
-- **Launch NEHONIX MindSync**: Successfully deploy NEHONIX MindSync, an AI-powered assistant, within 4 months (by September 2025), achieving 5,000 users and 250 premium subscribers within 6 months post-launch.
-- **Establish a Strong Team**: Build a collaborative team of developers, designers, and innovators, starting with the 10-member NEHONIX MindSync team, fostering growth and mentorship.
-- **Generate Revenue**: Target $36,400 in annual revenue through NEHONIX MindSync’s freemium model, with profit sharing among contributors to incentivize excellence.
-- **User Satisfaction**: Achieve an 80% user satisfaction rate for NEHONIX MindSync, measured through feedback surveys, ensuring the product meets user needs.
-
-### Medium-Term Goals (3-5 Years)
-
-- **Expand Project Portfolio**: Develop additional AI-driven tools under the NEHONIX banner, addressing diverse challenges such as education, healthcare, and remote work.
-- **Global Reach**: Grow NEHONIX’s user base to 100,000 users across multiple projects, with a focus on underserved regions and multilingual support.
-- **Partnerships**: Collaborate with educational institutions, businesses, and tech communities to integrate NEHONIX solutions into their ecosystems, enhancing accessibility.
-- **Sustainable Growth**: Reinvest profits into research and development, ensuring NEHONIX remains at the forefront of technological innovation.
-
+    
 ### Long-Term Goals (5+ Years)
 
 - **Industry Leadership**: Position NEHONIX as a recognized leader in AI and productivity solutions, competing with global tech giants while maintaining our commitment to accessibility.
