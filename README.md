@@ -44,7 +44,7 @@ NEHONIX is always looking for talented individuals to join our mission. Whether 
 
 ## Contact
 
-- **Email**: [nehonix.team@example.com](mailto:support@nehonix.space)
+- **Email**: [support@nehonix.space](mailto:support@nehonix.space)
 - **GitHub**: [github.com/nehonix](https://github.com/enterprises/NEHONIX)
 - **Website**: [nehonix.space](https://nehonix.space)
 - **WhatsApp**: Join our community group for updates and collaboration (link shared with team members).
