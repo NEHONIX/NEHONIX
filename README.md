@@ -47,6 +47,6 @@ NEHONIX is always looking for talented individuals to join our mission. Whether 
 - **Email**: [support@nehonix.space](mailto:support@nehonix.space)
 - **GitHub**: [github.com/nehonix](https://github.com/enterprises/NEHONIX)
 - **Website**: [nehonix.space](https://nehonix.space)
-- **WhatsApp**: [Join](https://chat.whatsapp.com/JkWU98cmligCWn4FRGxfuK) our community group for updates and collaboration.
+- **WhatsApp**: [Join](https://s.nehonix.space/QBo0KpCl) our community group for updates and collaboration.
 
 _NEHONIX: Innovating for a Better Tomorrow._
